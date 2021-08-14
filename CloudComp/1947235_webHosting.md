@@ -4,11 +4,11 @@
 - [BTech_Quiz: http://100.25.22.7/](http://100.25.22.7/)
 
 ## Screenshots
-- EC2 Instance
+  ### 1. EC2 Instance
   ![EC2 Instance](screenshots/EC2Instance.png)
 
-- Index Page
+  ### 2. Index Page
   ![Index Page](screenshots/index.png)
 
-- Rules Page
+  ### 3. Rules Page
   ![Rules Page](screenshots/rules.png)

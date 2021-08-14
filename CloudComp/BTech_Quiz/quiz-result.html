@@ -1,0 +1,40 @@
+<div class="jumbotron css-center">
+    <h1>Quiz Result</h1>
+</div>
+<form id="quizResults" method="POST">
+    <h3 style="text-align: left;">Here is your result:</h3>
+    <br>
+    <div class="result-div">
+        <div>
+            <h5>Total Questions:</h5>
+            <h4 id="totalCount">Total</h4>
+        </div>
+        <div>
+            <h5>Correct Answers:</h5>
+            <h4 id="correctCount">correctCount</h4>
+        </div>
+        <div>
+            <h5>Percentage:</h5>
+            <h4 id="correctPercent">correctPercent</h4>
+        </div>
+    </div>
+    <div style="margin: 10px; background: linear-gradient(to right, rgb(137 247 223 / 70%), #c17ee878);">
+        <span style="border-bottom: solid 1px white;font-size: 67%; font-weight: bold;">
+            Q.No. | Attempted | Correct | User's answer | Correct Answer 
+        </span>
+        <div id="resultDiv">
+            <!-- here result will be updated -->
+        </div>
+    </div>
+
+
+    <script>
+        $(document).ready(function () {
+            var element = document.getElementById("testTakerCounter");
+            element.classList.remove("testTakerCounter");
+            //on load of this page, load the result
+            showUserResult();
+        });
+    </script>
+
+</form>

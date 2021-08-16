@@ -16,3 +16,6 @@
 
   ### 4. SSH Terminal
   ![SSH terminal](screenshots/sshTerminal.png)
+
+  ### 4. Index updated
+  ![Index updated](screenshots/indexUpdated.png)

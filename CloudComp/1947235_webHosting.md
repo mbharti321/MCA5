@@ -13,3 +13,6 @@
 
   ### 3. Rules Page
   ![Rules Page](screenshots/rules.png)
+
+  ### 4. SSH Terminal
+  ![SSH terminal](screenshots/sshTerminal.png)

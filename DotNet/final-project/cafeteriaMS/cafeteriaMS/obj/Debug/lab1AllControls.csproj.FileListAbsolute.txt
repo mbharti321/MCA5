@@ -1,0 +1,12 @@
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\bin\Debug\cafeteriaMS.exe.config
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\bin\Debug\cafeteriaMS.exe
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\bin\Debug\cafeteriaMS.pdb
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.csproj.AssemblyReference.cache
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.Form1.resources
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.Properties.Resources.resources
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.csproj.GenerateResource.cache
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.csproj.CoreCompileInputs.cache
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.exe
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.pdb
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.formHome.resources
+C:\Users\mbhar\Desktop\MCA\.Net projects\cafeteriaMS\cafeteriaMS\obj\Debug\cafeteriaMS.formRegister.resources
